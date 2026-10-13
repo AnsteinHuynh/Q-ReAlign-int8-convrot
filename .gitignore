@@ -1,0 +1,4 @@
+# Weights never live here — they are published on Hugging Face.
+*.safetensors
+*.bin
+*.pth
